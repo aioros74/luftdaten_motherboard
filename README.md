@@ -9,7 +9,7 @@ Cette carte permet :
   * Alimentation externe directe.
   * Alimentation externe avec régulateurs DC/DC.
   
-<img src="./doc/luftdaten_esp.png" width=50%><img src="./doc/luftdaten_sds.png" width=50%>
+<img src="./doc/luftdaten_esp.png" width=30%><img src="./doc/luftdaten_sds.png" width=30%>
 
 ## Documentation
 * Documentation de la carte: [documentation](./doc/Carte Support Luftdaten v1r1.pdf)
