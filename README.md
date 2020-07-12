@@ -24,7 +24,7 @@ This card allows:
 	* External direct power supply.
 	* External power supply with DC/DC regulators.
 
-<img src="./doc/luftdaten_esp.png" width=30%><img src="./doc/luftdaten_sds.png" width=30%>
+<img src="./doc/luftdaten_esp.png" width=30%><img src="./doc/luftdaten_sds.png" width=30%><img src="./doc/luftdaten_box_1.jpg" width=30%>
 
 ## Documentation
 * Documentation de la carte: [documentation](./doc/Carte%20Support%20Luftdaten%20v1r1.pdf)
