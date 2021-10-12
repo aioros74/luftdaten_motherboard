@@ -1,7 +1,8 @@
 # Luftdaten motherboard
 ## Description
 ### French version
-La carte support luftdaten v1r1 est un circuit imprimé destiné à simplifier et apporter plus d’options au montage du détecteur de particules fines du projet Luftdaten (https://luftdaten.info/fr/accueil/).
+La carte support luftdaten v1r1 est un circuit imprimé destiné à simplifier et apporter plus d’options au montage du détecteur de particules fines du projet Sensor Community (https://sensor.community/fr/). La page du montage: https://sensor.community/fr/sensors/airrohr/
+
 Cette carte permet :
 * D’exposer les IOs de l’ESP8266 sur des connecteurs.
 * De fixer l’ESP8266 et les détecteurs de particules fines SDS011 et PMS7003 sur une même carte, et évite les câblages volants.
@@ -14,7 +15,8 @@ Cette carte permet :
 ### English version
 
 
-The luftdaten v1r1 motherboard is a printed circuit intended to simplify and provide more options for mounting the particule matter sensors of the Luftdaten project (https://luftdaten.info/fr/accueil/).
+The luftdaten v1r1 motherboard is a printed circuit intended to simplify and provide more options for mounting the particule matter sensors of the Sensor Community project (https://sensor.community/en/). Link to the hardware: https://sensor.community/fr/sensors/airrohr/
+
 This card allows:
 * Access to ESP8266 I/0
 * To fix the ESP8266 and the particule matter sensors SDS011 and PMS7003 on the same card, and avoid flying cables.
